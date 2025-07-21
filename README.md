@@ -1,2 +1,1 @@
-# THE-MOBILE-SHOP
-
+The Mobile Shop project is a fully functional Online Mobile E-Commerce Website developed using ASP.NET Web Forms with C#, ADO.NET, and SQL Server. It allows users to register, login, browse various mobile phones, add them to the cart, and place orders online. The user interface is developed using HTML, CSS, JavaScript.
