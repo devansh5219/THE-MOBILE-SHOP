@@ -1,0 +1,116 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="admin" Collapsed="true">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAACwEAAAJABAAAQAAAAAgCQBgAAAAAAAEABBE=</HashCode>
+      <FileName>C:\Users\USER\AppData\Local\Temp\Temporary ASP.NET Files\mshop\48daa266\e2b7207a\Sources_App_Code\admin.xsd.72cecc2a.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DS_AITEM" Collapsed="true">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAIwAAAAJABAAAQAAAAAgCQBgAAAEEAAEABBA=</HashCode>
+      <FileName>C:\Users\USER\AppData\Local\Temp\Temporary ASP.NET Files\mshop\48daa266\e2b7207a\Sources_App_Code\ds_aitem.xsd.72cecc2a.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DS_CAT" Collapsed="true">
+    <Position X="0.5" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAEAAAwAAAAJABAAAQAABAAgCQJgAAAAAAAEABBA=</HashCode>
+      <FileName>C:\Users\USER\AppData\Local\Temp\Temporary ASP.NET Files\mshop\48daa266\e2b7207a\Sources_App_Code\ds_cat.xsd.72cecc2a.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DS_Feed" Collapsed="true">
+    <Position X="2.25" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAwIAAAJABAAAQAIAAAgCQBgAAAAABAEABBA=</HashCode>
+      <FileName>C:\Users\USER\AppData\Local\Temp\Temporary ASP.NET Files\mshop\48daa266\e2b7207a\Sources_App_Code\ds_feed.xsd.72cecc2a.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DS_ORDER" Collapsed="true">
+    <Position X="4" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAwAAAAJABAAAQAAAAAgCQxgAAAAAAAEABBA=</HashCode>
+      <FileName>C:\Users\USER\AppData\Local\Temp\Temporary ASP.NET Files\mshop\48daa266\e2b7207a\Sources_App_Code\ds_order.xsd.72cecc2a.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DS_PAyment" Collapsed="true">
+    <Position X="5.75" Y="1.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AQAAAAAAAwAAACJABAAAQAAAAAgCQBwAAAAAAAEABBA=</HashCode>
+      <FileName>C:\Users\USER\AppData\Local\Temp\Temporary ASP.NET Files\mshop\48daa266\e2b7207a\Sources_App_Code\ds_payment.xsd.72cecc2a.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DS_Quantity" Collapsed="true">
+    <Position X="0.5" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAwAAAAJABAAAQAAAAAgCQBgAAAAAAAEABBA=</HashCode>
+      <FileName>C:\Users\USER\AppData\Local\Temp\Temporary ASP.NET Files\mshop\48daa266\e2b7207a\Sources_App_Code\ds_quantity.xsd.72cecc2a.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DS_USER" Collapsed="true">
+    <Position X="2.25" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAwAAAAJBBAAAQAAAAAoKQBgAAAAAAAEABBA=</HashCode>
+      <FileName>C:\Users\USER\AppData\Local\Temp\Temporary ASP.NET Files\mshop\48daa266\e2b7207a\Sources_App_Code\ds_user.xsd.72cecc2a.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="adminTableAdapters.ADMIN_SELECTTableAdapter" Collapsed="true">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAQAAGAAAAAAAAMAIAAAAAAAACEICABAAQAAAAAABBE=</HashCode>
+      <FileName>C:\Users\USER\AppData\Local\Temp\Temporary ASP.NET Files\mshop\48daa266\e2b7207a\Sources_App_Code\admin.xsd.72cecc2a.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DS_AITEMTableAdapters.ITEM_SELECTTableAdapter" Collapsed="true">
+    <Position X="5.75" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAQAAGgAAAAAABMAJAAAAAAAACEICABgAACgAAAIBBA=</HashCode>
+      <FileName>C:\Users\USER\AppData\Local\Temp\Temporary ASP.NET Files\mshop\48daa266\e2b7207a\Sources_App_Code\ds_aitem.xsd.72cecc2a.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DS_AITEMTableAdapters.QueriesTableAdapter" Collapsed="true">
+    <Position X="4" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAACAAAAAAAAAAIAAAAAAAAAAIAAAAAACAAAAAAAA=</HashCode>
+      <FileName>C:\Users\USER\AppData\Local\Temp\Temporary ASP.NET Files\mshop\48daa266\e2b7207a\Sources_App_Code\ds_aitem.xsd.72cecc2a.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DS_CATTableAdapters.CATEMST_SELECTTableAdapter" Collapsed="true">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAQAAGAAAAAAAAMAIAAAAAAAACEICABAAAAAAAAABBA=</HashCode>
+      <FileName>C:\Users\USER\AppData\Local\Temp\Temporary ASP.NET Files\mshop\48daa266\e2b7207a\Sources_App_Code\ds_cat.xsd.72cecc2a.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DS_FeedTableAdapters.FEEDBACKMSTR_SELECTTableAdapter" Collapsed="true">
+    <Position X="4" Y="2.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>GAQAAGAAAAAAAAMAIAAAAAAAACEICAAAAAAAAAAABBA=</HashCode>
+      <FileName>C:\Users\USER\AppData\Local\Temp\Temporary ASP.NET Files\mshop\48daa266\e2b7207a\Sources_App_Code\ds_feed.xsd.72cecc2a.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DS_ORDERTableAdapters.ORDER_SELECTTableAdapter" Collapsed="true">
+    <Position X="0.5" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAQAAGCBAYAgAAMAYAAAAAgAACEICAAQBEAAAAAABBA=</HashCode>
+      <FileName>C:\Users\USER\AppData\Local\Temp\Temporary ASP.NET Files\mshop\48daa266\e2b7207a\Sources_App_Code\ds_order.xsd.72cecc2a.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DS_PAymentTableAdapters.PAYMENTMST_SELECTTableAdapter" Collapsed="true">
+    <Position X="2.25" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAQAAGAAAEAAAAMAKAACAAAAACEICAAAAAAAAAAABBA=</HashCode>
+      <FileName>C:\Users\USER\AppData\Local\Temp\Temporary ASP.NET Files\mshop\48daa266\e2b7207a\Sources_App_Code\ds_payment.xsd.72cecc2a.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="DS_USERTableAdapters.USER_SELECTTableAdapter" Collapsed="true">
+    <Position X="5.75" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAwAAGAAAAAAAAsEoAAAAAAAACEICAAAAAAAABAABBA=</HashCode>
+      <FileName>C:\Users\USER\AppData\Local\Temp\Temporary ASP.NET Files\mshop\48daa266\e2b7207a\Sources_App_Code\ds_user.xsd.72cecc2a.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
